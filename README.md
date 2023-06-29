@@ -1,4 +1,5 @@
-### Hi there 👋
+### My Profile 👋
+I'm looking for a backend developer intern ship to improve my skill. In next 5 years, goal is to advance career to a Techincal Leader. 🤵
 
 <!--
 **datntse/datntse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
